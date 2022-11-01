@@ -22,7 +22,7 @@
    <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Amanda-canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
    <img align="center" alt="Amanda-sqlServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-   <img align="righe" alt="Iron-Man-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/FoHS_atXExgAAAAd/ironman-jarvis.gif">
+   <img align="right" alt="Iron-Man-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/FoHS_atXExgAAAAd/ironman-jarvis.gif">
  </div>
   
   
