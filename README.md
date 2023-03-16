@@ -1,7 +1,7 @@
  ### Heeey!👋 I'm Amanda Vitoria, just boldness and joy🌟
  
- - 🔭 I’m currently working as an intern in the IT support area
- - 🌱 I’m currently learning PY, JS, C# and .NET 
+ - 🔭 I’m currently working as intern in the IT support area
+ - 🌱 I’m currently learning JAVA, JS, C# and .NET 
  - 💬 Ask me about everything
  - ⚡ Fun fact: I started playing drums through a project using HTML, CSS and JS 🤘
  <br>
