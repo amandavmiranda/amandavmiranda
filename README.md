@@ -15,7 +15,7 @@
   
  <br>
  <div style="display: inline_block"><br>
-   <img align="center" alt="icon" width="54" height="48" src="https://techstack-generator.vercel.app/java-icon.svg">&nbsp;
+   <img align="center" alt="icon" width="60" height="48" src="https://techstack-generator.vercel.app/java-icon.svg">&nbsp;
    <img align="center" alt="icon" width="50" height="40" src="https://techstack-generator.vercel.app/python-icon.svg">&nbsp;
    <img align="center" alt="Amanda-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Amanda-dotNET" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
